@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent_overlay">#55ffffff</color>
+    <color name="letter_gray">#514a40</color>
+    <color name="affectiva_orange">#ff8000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#cf1a0b</color>
+
+    <color name="grid_item_not_chosen">#646464</color>
+    <color name="grid_item_chosen">#009600</color>
+    <color name="grid_item_chosen_over_limit">#cf1a0b</color>
+
+
+    <color name="background_color">#085123</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+</resources>

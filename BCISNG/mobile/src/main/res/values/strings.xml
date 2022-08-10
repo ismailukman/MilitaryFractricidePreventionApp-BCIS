@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BCISNG</string>
+    <string name="forgot">Forgot</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="paswd">Password</string>
+    <string name="login">Login</string>
+    <string name="newUser">New User</string>
+    <string name="email">Email</string>
+    <string name="signUp">Sign Up</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Comfirm Password</string>
+    <string name="terms_conditions">Terms &amp; Condtion</string>
+    <string name="alreadyUser">Already User</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="send">Send</string>
+    <string name="registered_emailid">Reg Email ID</string>
+    <string name="closebutton">Close Button</string>
+    <string name="code">Code</string>
+    <string name="msg">Message</string>
+    <string name="txt">BCISNG - NUN Thesis</string>
+
+</resources>

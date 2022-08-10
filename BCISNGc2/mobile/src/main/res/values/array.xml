@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="platoon">
+        <item value = "Select"> Select</item>
+        <item value = "p0104"> p0104</item>
+        <item value = "p0211"> p0211</item>
+        <item value = "p0306"> p0306</item>
+        <item value = "p0308"> p0308</item>
+        <item value = "p0501"> p0501</item>
+    </string-array>
+
+
+</resources>
